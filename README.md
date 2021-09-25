@@ -31,9 +31,10 @@ I will design and make a a classic text-based computer game for a client who is 
 6. The game will be developed in english.
 # Criteria B: Design
 
-
 ## System Diagram
+![system diagram(game)](https://user-images.githubusercontent.com/89052189/134761943-484a6299-9d41-4222-848a-778045663779.png)
 
+**fig.1**: System Diagram for the proposed solution. In this this diagram you''ll see a representation of where the game is running, the user name and score is the data stored in the game. Pycharm is the sfotware where the game is being developed. Windows is the operating system for that software and the computer is the electronic device and home of them all. You can also see the inputs that are being inputed by the keyboard and outputed on the screen in Pycharm's terminal.
 ## Flow Diagrams
 
 ## Record of Tasks
@@ -42,3 +43,9 @@ I will design and make a a classic text-based computer game for a client who is 
 |   1     |  write design statement      | have design statement   |        7min           |      22nd sep                     |     A        |
 |   2     |  write success criteria      | have success criteria(6)|        10 min         |      22nd sep                     |     A        |
 |   3     |  write justification tools   | have the tools justified|        30 min         |      22rd sep                     |     A        |
+|   4     |   design the system diagram  | have the system diagram |        10 min         |      24th sep                     |     B        |
+|         |                              |                         |                       |                                   |              |
+|         |                              |                         |                       |                                   |              |
+|         |                              |                         |                       |                                   |              |
+|         |                              |                         |                       |                                   |              |
+|         |                              |                         |                       |                                   |              |
