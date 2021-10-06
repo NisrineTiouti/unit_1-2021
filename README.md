@@ -37,6 +37,10 @@ I will design and make a a classic text-based computer game for a client who is 
 **fig.1**: System Diagram for the proposed solution. In this this diagram you''ll see a representation of where the game is running, the user name and score is the data stored in the game. Pycharm is the sfotware where the game is being developed. Windows is the operating system for that software and the computer is the electronic device and home of them all. You can also see the inputs that are being inputed by the keyboard and outputed on the screen in Pycharm's terminal.
 ## Flow Diagrams
 
+## Caesae Cypher
+
+The databse in the game has to be protected so that personal data is not exposed. To solve this requirement I am using the Caesar Cypher. **Fig 2**
+
 ## Record of Tasks
 | Task No |       Planned Action         | Planned Outcome         | Time estimate         | Target completion date            | Criterion    |
 |---------|----------------------------- |------------------------ |---------------------- |-----------------------------------|--------------|
@@ -44,8 +48,8 @@ I will design and make a a classic text-based computer game for a client who is 
 |   2     |  write success criteria      | have success criteria(6)|        10 min         |      22nd sep                     |     A        |
 |   3     |  write justification tools   | have the tools justified|        30 min         |      22rd sep                     |     A        |
 |   4     |   design the system diagram  | have the system diagram |        10 min         |      24th sep                     |     B        |
-|         |                              |                         |                       |                                   |              |
-|         |                              |                         |                       |                                   |              |
+|   5     | create a encryption function |A function tested that   |        20min          |      oct 6th                      |     C        |
+|         | for the user data            |uses the caesar cypher   |                       |                                   |              |
 |         |                              |                         |                       |                                   |              |
 |         |                              |                         |                       |                                   |              |
 |         |                              |                         |                       |                                   |              |
