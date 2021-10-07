@@ -38,11 +38,15 @@ I will design and make a a classic text-based computer game for a client who is 
 ## Flow Diagrams
 
 ## Caesar Cypher
+**fig2**
+
+![encryption flowchart](https://user-images.githubusercontent.com/89052189/136376240-a140e283-74ae-4d46-ab17-ea6cb0dc7256.png)
+
 
 The databse in the game has to be protected so that personal data is not exposed. To solve this requirement I am using the Caesar Cypher. **Fig 2**
 
 ## Record of Tasks
-|| Task No | Planned Action                                                | Planned Outcome                                   | Time estimate | Target completion date | Criterion |
+| Task No | Planned Action                                                | Planned Outcome                                   | Time estimate | Target completion date | Criterion |
 |---------|---------------------------------------------------------------|---------------------------------------------------|---------------|------------------------|-----------|
 | 1       | write design statement                                        | have design statement                             | 7min          | 22nd sep               | A         |
 | 2       | write success criteria                                        | have success criteria(6)                          | 10 min        | 22nd sep               | A         |
