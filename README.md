@@ -35,12 +35,15 @@ I will design and make a a classic text-based computer game for a client who is 
 ![system diagram(game)](https://user-images.githubusercontent.com/89052189/134761943-484a6299-9d41-4222-848a-778045663779.png)
 
 **fig.1**: System Diagram for the proposed solution. In this this diagram you''ll see a representation of where the game is running, the user name and score is the data stored in the game. Pycharm is the sfotware where the game is being developed. Windows is the operating system for that software and the computer is the electronic device and home of them all. You can also see the inputs that are being inputed by the keyboard and outputed on the screen in Pycharm's terminal.
+## personal reasons:
+I chose the game theme to be a dragon collecting game, because i think that dragons are amazing creatures. They are indeed scary, but they are very powerful and strong. We always see them as frightening beasts but i think it is better to fratenize with them. I also chose this game to be a bit of a tricky one as you won't always gain a dragon in each door you choose, which can be projected in our daily life, that you should dream on but don't expect it will all come through, that each path in life doesn't necessarily end well so we have to choose carefully, choose a path where the price is something we are willing to pay.
 ## Flow Diagrams
 
 ## Caesar Cypher
 **fig2**
 
-![encryption flowchart](https://user-images.githubusercontent.com/89052189/136376240-a140e283-74ae-4d46-ab17-ea6cb0dc7256.png)
+<img src="https://user-images.githubusercontent.com/89052189/136376240-a140e283-74ae-4d46-ab17-ea6cb0dc7256.png"
+     width= 40% height=40%>
 
 
 The databse in the game has to be protected so that personal data is not exposed. To solve this requirement I am using the Caesar Cypher. **Fig 2**
@@ -54,3 +57,4 @@ The databse in the game has to be protected so that personal data is not exposed
 | 4       | create system diagram                                         | have a system diagram                             | 30 min        | 23rd sep               | B         |
 | 5       | create a encryption function for the user data                | A function tested that uses caesar cypher         | 15 min        | 6th oct                | C         |
 | 6       | Integrate the encryption with the database save/load function | The database is encrypted and can be read/written | 5 min         | 6th oct                | C         |
+| 7       | write personal reasons for choosing the game's theme          | have the personal reasons statement               | 5 min         | 11th oct               | B         |
