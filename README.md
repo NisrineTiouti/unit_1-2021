@@ -50,8 +50,8 @@ I chose the game theme to be a dragon collecting game, because i think that drag
 <img src="https://user-images.githubusercontent.com/89052189/138575884-ebb007cc-32be-4374-a0e2-b22fb8fead8d.png"
      width = 80% height = 80%>\
      **fig4**: While loop within the main function that checks the player's door choice, in which the player can collect a dragon and points if its the right choice or get damaged if it's the wrong choice. 
-     - grotto(), hollow() are room functions that tell the player which dragon they gained in that room and how many points were added to his score 
-     - damage() is a function with a level of damage argument, if the damage is at level 1 or 2 the player rests for 10 seconds and then continues the game, if its high then its Gam over.
+     - *grotto(), hollow()* are room functions that tell the player which dragon they gained in that room and how many points were added to his score 
+     - *damage()* is a function with a level of damage argument, if the damage is at level 1 or 2 the player rests for 10 seconds and then continues the game, if its high then its Game over.
 
 ## Caesar Cypher
 **fig5**
@@ -63,7 +63,10 @@ The databse in the game has to be protected so that personal data is not exposed
 
 ## Source Code:
 
-[Classic game.zip](https://github.com/NisrineTiouti/unit_1-2021/files/7404012/Classic.game.zip)
+   **HydraCollect**
+![dragon logo](https://user-images.githubusercontent.com/89052189/138598932-02e6caa5-183f-4117-8f49-6f5c41ce9fbd.jpg)
+
+   [Classic game.zip](https://github.com/NisrineTiouti/unit_1-2021/files/7404012/Classic.game.zip)
 
 ## Record of Tasks
 | Task No | Planned Action                                                                               | Planned Outcome                                   | Time estimate | Target completion date | Criterion |
