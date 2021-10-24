@@ -26,7 +26,7 @@ I will design and make a a classic text-based computer game for a client who is 
 1. The game has to be entirely text-based.
 2. The game must record the time played.
 3. The game must record the player name and score.
-4. The game must output a table with the dragons collected and username.
+4. The game must output a table with the score, time played and username.
 5. The game must give the user time to rest if needed.
 6. The game will be developed in english.
 # Criteria B: Design
@@ -38,15 +38,29 @@ I will design and make a a classic text-based computer game for a client who is 
 ## personal reasons:
 I chose the game theme to be a dragon collecting game, because i think that dragons are amazing creatures. They are indeed scary, but they are very powerful and strong. We always see them as frightening beasts but i think it is better to fratenize with them. I also chose this game to be a bit of a tricky one as you won't always gain a dragon in each door you choose, which can be projected in our daily life, that you should dream on but don't expect it will all come through, that each path in life doesn't necessarily end well so we have to choose carefully, choose a path where the price is something we are willing to pay.
 ## Flow Diagrams
+<img src="https://user-images.githubusercontent.com/89052189/138575880-ff6c8dbc-f61f-4bc8-a4ae-a1cee05354c5.png"
+     width = 50% height = 50%>\
+ 
+  **fig2** : Main function of the game
+    
+<img src="https://user-images.githubusercontent.com/89052189/138575881-17b1bcd0-236a-4bee-97fe-fe9ff4f9979c.png"
+     width = 50% height = 50%>\
+    **fig3** : For loop within the main function that outputs the door choices.
+     
+<img src="https://user-images.githubusercontent.com/89052189/138575884-ebb007cc-32be-4374-a0e2-b22fb8fead8d.png"
+     width = 80% height = 80%>\
+     **fig4**: While loop within the main function that checks the player's door choice, in which the player can collect a dragon and points if its the right choice or get damaged if it's the wrong choice. 
 
 ## Caesar Cypher
-**fig2**
+**fig5**
 
 <img src="https://user-images.githubusercontent.com/89052189/136376240-a140e283-74ae-4d46-ab17-ea6cb0dc7256.png"
      width= 40% height=40%>
 
+The databse in the game has to be protected so that personal data is not exposed. To solve this requirement I am using the Caesar Cypher. **Fig 5**
 
-The databse in the game has to be protected so that personal data is not exposed. To solve this requirement I am using the Caesar Cypher. **Fig 2**
+## Source Code:
+
 
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                   | Time estimate | Target completion date | Criterion |
@@ -58,3 +72,6 @@ The databse in the game has to be protected so that personal data is not exposed
 | 5       | create a encryption function for the user data                | A function tested that uses caesar cypher         | 15 min        | 6th oct                | C         |
 | 6       | Integrate the encryption with the database save/load function | The database is encrypted and can be read/written | 5 min         | 6th oct                | C         |
 | 7       | write personal reasons for choosing the game's theme          | have the personal reasons statement               | 5 min         | 11th oct               | B         |
+| 8       | Prepare an MVP for game                                       | Have an MVP that can be tested                    | 1h            | 14th oct               | B         |
+| 9       | Record yourself demonstrating the MVP                         | Have the video and upload it on Managebac         | 5 min         | 14th oct               | B         |
+| 10      | Create 3 flowcharts from the game                             | Have the 3 flowcharts                             | 45 min        | 24th oct               | B         |
