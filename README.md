@@ -69,16 +69,17 @@ The databse in the game has to be protected so that personal data is not exposed
    [Classic game.zip](https://github.com/NisrineTiouti/unit_1-2021/files/7404012/Classic.game.zip)
 
 ## Record of Tasks
-| Task No | Planned Action                                                                               | Planned Outcome                                   | Time estimate | Target completion date | Criterion |
-|---------|----------------------------------------------------------------------------------------------|---------------------------------------------------|---------------|------------------------|-----------|
-| 1       | write design statement                                                                       | have design statement                             | 7min          | 22nd sep               | A         |
-| 2       | write success criteria                                                                       | have success criteria(6)                          | 10 min        | 22nd sep               | A         |
-| 3       | write justification tools                                                                    | have the tools justified                          | 30 min        | 22rd sep               | A         |
-| 4       | create system diagram                                                                        | have a system diagram                             | 30 min        | 23rd sep               | B         |
-| 5       | create a encryption function for the user data                                               | A function tested that uses caesar cypher         | 15 min        | 6th oct                | C         |
-| 6       | Integrate the encryption with the database save/load function                                | The database is encrypted and can be read/written | 5 min         | 6th oct                | C         |
-| 7       | write personal reasons for choosing the game's theme                                         | have the personal reasons statement               | 5 min         | 11th oct               | B         |
-| 8       | Prepare an MVP for game                                                                      | Have an MVP that can be tested                    | 1h            | 14th oct               | B         |
-| 9       | Record yourself demonstrating the MVP                                                        | Have the video and upload it on Managebac         | 5 min         | 14th oct               | B         |
-| 10      | Create 3 flowcharts from the game                                                            | Have the 3 flowcharts                             | 45 min        | 24th oct               | B         |
-| 11      | Create a table that contains username, score and timeplayed by importing the tabulate module | Have that table outputed at the end of the game   | 10 min        | 24th oct               | C         |
+| Task No | Planned Action                                                | Planned Outcome                                                 | Time estimate | Target completion date | Criterion |
+|---------|---------------------------------------------------------------|-----------------------------------------------------------------|---------------|------------------------|-----------|
+| 1       | write design statement                                        | have design statement                                           | 7min          | 22nd sep               | A         |
+| 2       | write success criteria                                        | have success criteria(6)                                        | 10 min        | 22nd sep               | A         |
+| 3       | write justification tools                                     | have the tools justified                                        | 30 min        | 22rd sep               | A         |
+| 4       | create system diagram                                         | have a system diagram                                           | 30 min        | 23rd sep               | B         |
+| 5       | create a encryption function for the user data                | A function tested that uses caesar cypher                       | 15 min        | 6th oct                | C         |
+| 6       | Integrate the encryption with the database save/load function | The database is encrypted and can be read/written               | 5 min         | 6th oct                | C         |
+| 7       | write personal reasons for choosing the game's theme          | have the personal reasons statement                             | 5 min         | 11th oct               | B         |
+| 8       | Prepare an MVP for game                                       | Have an MVP that can be tested                                  | 2h            | 14th oct               | B         |
+| 9       | Record yourself demonstrating the MVP                         | Have the video and upload it on Managebac                       | 5 min         | 14th oct               | B         |
+| 10      | Create a table that contains username, score and timeplayed   | The player's data is outputed as a table at the end of the game | 10min         | 19th oct               | C         |
+| 11      | Finalize the game and re test it                              | Have the game completed                                         | 1h            | 20th oct               | C         |
+| 12      | Choose 3 flowcharts to create from the game                   | Have the 3 flowcharts                                           | 45min         | 24th oct               | B         |
