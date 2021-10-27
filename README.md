@@ -60,6 +60,23 @@ I chose the game theme to be a dragon collecting game, because i think that drag
      width= 40% height=40%>
 
 The databse in the game has to be protected so that personal data is not exposed. To solve this requirement I am using the Caesar Cypher. **Fig 5**
+## Test Plan:
+**Functional Testing**
+| Type of Testing | Part to Test                                                                    | Question Asked                                    | INPUT(s)             | Expected Output                                                                                                                                              | STATUS     |
+|-----------------|---------------------------------------------------------------------------------|---------------------------------------------------|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Unit Testing    | Username Input Validation, if its in  the list or not  list[draco, alis, ignis] | Please choose one of the usernames from the list  | Karo                 | Username not from the list. Try again                                                                                                                        | SUCCESSFUL |
+| Unit Testing    | Input validation                                                                | So are you ready (Username) ?                     | hihi                 | Wrong input. Enter Y for Yes and N for No                                                                                                                    | SUCCESSFUL |
+| Unit Testing    | The damage function of the game                                                 | Choose a door..                                   | A wrong door choice  | You have been damaged mildly, you will have 10 seconds to recover recovering... You are ready to play again Remember even if trees are odd they carry fruit. | SUCCESSFUL |
+
+[Testing Game.zip](https://github.com/NisrineTiouti/unit_1-2021/files/7423391/Testing.Game.zip)
+
+**Non-Functional Testing**
+
+The feedback received from the MVP beta user --> great visuals and no bugs found.
+
+**USER FRIENDLINESS**: "Really creative and great visuals ". -> **SUCCESSFUL**
+
+**BUGS**: "Validation for user input is included all around the game"- " No bugs found".->  **SUCCESSFUL**
 
 ## Source Code:
 
@@ -83,3 +100,4 @@ The databse in the game has to be protected so that personal data is not exposed
 | 10      | Create a table that contains username, score and timeplayed   | The player's data is outputed as a table at the end of the game | 10min         | 19th oct               | C         |
 | 11      | Finalize the game and re test it                              | Have the game completed                                         | 1h            | 20th oct               | C         |
 | 12      | Choose 3 flowcharts to create from the game                   | Have the 3 flowcharts                                           | 45min         | 24th oct               | B         |
+| 13      | Compose a Test Plan                                           | Have the test Plan on table                                     | 30 min        | 27th oct               | B         |
